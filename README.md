@@ -1,9 +1,4 @@
-## About Me
-MPhys Theoretical Physics student at the University of York. 
-
-I specialise in computational physics and scientific computing.
-Highly experienced in the use of finite difference/finite element methods for solving ODE/PDE systems modelled in modern Fortran. 
-
+### About Me
 ```yaml
 name:         Scott Lynn
 location:     York, UK
