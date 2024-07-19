@@ -2,7 +2,7 @@
 MPhys Theoretical Physics student at the University of York. 
 
 I specialise in computational physics and scientific computing.
-Highly experienced in the use of finite difference/finite element methods for solving ODE/PDE systems modelled in Fortran. 
+Highly experienced in the use of finite difference/finite element methods for solving ODE/PDE systems modelled in modern Fortran. 
 
 ```yaml
 name: Scott Lynn
