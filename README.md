@@ -1,4 +1,7 @@
 #### About Me  
-PhD researcher in the Quantum Information Group within the Department of Computer Science at the University of York. Funded by the Integrated Quantum Networks (IQN) Hub and supervised by Professor Stefano Pirandola. My research focuses on the computational simulation and development of entanglement distillation protocols for distributed quantum networks.
+I am a computational physicist with a background in theoretical physics and scientific computing, having earned a first-class MPhys in Theoretical Physics from the University of York. My Master's research focused on the computational simulation and security analysis of entanglement-based quantum key distribution (QKD). 
 
-My background is in theoretical physics and scientific computing, having earned a first-class MPhys from the University of York with a focus on entanglement-based quantum key distribution. Skilled in high-performance computing and machine learning with a strong foundation in quantum science and technology. Interested in contributing to the development of secure and scalable quantum communication systems. 
+I am particularly interested in high performance computing (HPC), parallel programming, distributed computing, and GPU acceleration for complex scientific workloads.
+
+Core Stack: C++, Modern Fortran, Python
+HPC: MPI, OpenMP, CUDA. 
